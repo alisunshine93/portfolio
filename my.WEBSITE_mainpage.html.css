@@ -1,0 +1,99 @@
+@import url("file:///D|/117/digital_porfolio/bootstrap.min.js.css");
+.navbar {
+	position: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
+	}
+	
+.midboy {
+	
+
+
+}
+
+.Hfooter{
+	background: #66D9A1;
+	width: 1000000000px;
+	height: 52px;
+}
+
+.sidemain{
+	float: right;
+
+
+}
+
+.sidefooterH{
+	float: right;
+}
+
+#jumbotron text-center{
+background: #38D987;
+}
+
+
+.footer {
+	background-color: #66D9A1;
+	height: 52px;
+}
+
+
+.titletrad {
+	position: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 2000%;
+}
+
+.midbody{
+	position: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
+}
+
+.header {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+}
+
+.header img {
+	width: 100%;
+	height: auto;
+}
+
+#centerImg {
+	width: 100vw;
+	height: auto;
+	display: block;
+	margin-left: -90px;
+}
+
+.card-img {
+	width: 100%;
+	height: 100%;
+}
+
+@media(min-width: 769px){
+	.card-text {
+		width: 100%;
+	}
+}
+
+
+@media(max-width: 768px){
+	.card-text {
+		width: 100%;
+		display: inline-block;
+	}
+
+	.card-body {
+		display: inline-block;
+	}
+}
